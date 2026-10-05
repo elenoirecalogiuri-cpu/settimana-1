@@ -1,0 +1,24 @@
+{
+  "name": "settimana-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.9.1",
+      "onFail": "download"
+    }
+  },
+  "packageManager": "pnpm@12.9.1",
+  "type": "module",
+  "devDependencies": {
+    "vitest": "^5.0.3"
+  }
+}
