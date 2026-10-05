@@ -1,3 +1,3 @@
 function greet(name) {
-    return "Ciao" + name;
+    return `Ciao ${name}`
 }
